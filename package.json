@@ -1,7 +1,7 @@
 {
-  "name": "starter-kit-component-lit-element",
+  "name": "component-lit-element-example",
   "version": "1.0.0",
-  "description": "component started component ",
+  "description": "component react with lit element",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --config ./webpack.config.js --env.mode development",
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/duplexascensores/starter-kit-component-lit-element.git"
+    "url": "git+ssh://git@github.com:danielbonus/react-lit-element.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/duplexascensores/starter-kit-component-lit-element#readme",
+  "homepage": "https://https://github.com/danielbonus/react-lit-element#readme",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.4.0",
     "lit-element": "^2.2.1",

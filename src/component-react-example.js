@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import './component-example';
+import './component-lit-element-example';
 
 function Example() {
   const [ open, setOpen ] = useState(false);
