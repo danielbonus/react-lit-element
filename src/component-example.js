@@ -20,7 +20,7 @@ class Component  extends LitElement {
 
   render() {
     return html`
-      <h1>Example complement</h1>
+      <h1>Example component Lit Element</h1>
     `;
   }
 }

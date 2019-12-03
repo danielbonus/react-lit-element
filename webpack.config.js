@@ -76,6 +76,9 @@ module.exports = ({ mode }) => {
                   useBuiltIns: 'usage',
                   targets: '>1%, not dead, not ie 11'
                 }
+              ],
+              [
+                '@babel/preset-react'
               ]
             ]
           }
